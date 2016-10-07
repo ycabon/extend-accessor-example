@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "target": "es5",
+    "noImplicitAny": true,
+    "experimentalDecorators": true
+  },
+  "files": [
+    "src/ClassA.ts",
+    "src/ClassB.ts",
+    "src/ClassC.ts",
+    
+    "typings/index.d.ts",
+    "./esri-accessor.d.ts"
+  ]
+}
